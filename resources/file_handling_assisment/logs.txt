@@ -1,0 +1,6 @@
+Log entrys:
+1: Student1 enrolled
+2: Student2 enrolled
+3: Student3 enrolled
+4: Student1 quits
+Student4 Enrolled
